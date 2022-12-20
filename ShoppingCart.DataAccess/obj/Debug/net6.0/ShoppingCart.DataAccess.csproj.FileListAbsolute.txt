@@ -1,0 +1,17 @@
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.deps.json
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.dll
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.pdb
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.AssemblyInfo.cs
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.csproj.CopyComplete
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.dll
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\refint\ShoppingCart.DataAccess.dll
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.pdb
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ref\ShoppingCart.DataAccess.dll
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.runtimeconfig.json
+C:\Users\miray\source\repos\ShoppingCart.Web\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.genruntimeconfig.cache
